@@ -1,0 +1,4 @@
+Nombre:programa-1-2024
+Proveedor:Servicios web de Amazon
+Región:US-West-1 (Norte de California)
+contraseña:96ff3RKCpGd-AReGVypBZe7a0X5tU1fa
